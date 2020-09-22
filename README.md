@@ -1,7 +1,3 @@
-# nuxt-template
-
-> My grand Nuxt.js project
-
 ## Build Setup
 
 ```bash
