@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "agri-ensights"
+  },
+  "targets": {
+    "agri-ensights": {
+      "hosting": {
+        "agri-test": [
+          "agri-test"
+        ]
+      }
+    }
+  }
+}

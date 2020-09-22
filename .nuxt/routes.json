@@ -1,0 +1,333 @@
+[
+  {
+    "name": "360",
+    "path": "/360",
+    "component": "/home/peet/Desktop/agri-test/pages/360.vue",
+    "chunkName": "pages/360"
+  },
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/home/peet/Desktop/agri-test/pages/about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "advisory",
+    "path": "/advisory",
+    "component": "/home/peet/Desktop/agri-test/pages/advisory.vue",
+    "chunkName": "pages/advisory"
+  },
+  {
+    "name": "agriEvent",
+    "path": "/agriEvent",
+    "component": "/home/peet/Desktop/agri-test/pages/agriEvent.vue",
+    "chunkName": "pages/agriEvent"
+  },
+  {
+    "name": "contact_us",
+    "path": "/contact_us",
+    "component": "/home/peet/Desktop/agri-test/pages/contact_us.vue",
+    "chunkName": "pages/contact_us"
+  },
+  {
+    "name": "crm",
+    "path": "/crm",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/index.vue",
+    "chunkName": "pages/crm/index"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "/home/peet/Desktop/agri-test/pages/dashboard/index.vue",
+    "chunkName": "pages/dashboard/index"
+  },
+  {
+    "name": "eCommerce",
+    "path": "/eCommerce",
+    "component": "/home/peet/Desktop/agri-test/pages/eCommerce/index.vue",
+    "chunkName": "pages/eCommerce/index"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/home/peet/Desktop/agri-test/pages/login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "news",
+    "path": "/news",
+    "component": "/home/peet/Desktop/agri-test/pages/news.vue",
+    "chunkName": "pages/news"
+  },
+  {
+    "name": "pp",
+    "path": "/pp",
+    "component": "/home/peet/Desktop/agri-test/pages/pp.vue",
+    "chunkName": "pages/pp"
+  },
+  {
+    "name": "pricing",
+    "path": "/pricing",
+    "component": "/home/peet/Desktop/agri-test/pages/pricing.vue",
+    "chunkName": "pages/pricing"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "/home/peet/Desktop/agri-test/pages/profile.vue",
+    "chunkName": "pages/profile"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/home/peet/Desktop/agri-test/pages/register.vue",
+    "chunkName": "pages/register"
+  },
+  {
+    "name": "social",
+    "path": "/social",
+    "component": "/home/peet/Desktop/agri-test/pages/social.vue",
+    "chunkName": "pages/social"
+  },
+  {
+    "name": "tc",
+    "path": "/tc",
+    "component": "/home/peet/Desktop/agri-test/pages/tc.vue",
+    "chunkName": "pages/tc"
+  },
+  {
+    "name": "crm-assets",
+    "path": "/crm/assets",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/assets/index.vue",
+    "chunkName": "pages/crm/assets/index"
+  },
+  {
+    "name": "crm-company",
+    "path": "/crm/company",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/company/index.vue",
+    "chunkName": "pages/crm/company/index"
+  },
+  {
+    "name": "crm-customers",
+    "path": "/crm/customers",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/customers/index.vue",
+    "chunkName": "pages/crm/customers/index"
+  },
+  {
+    "name": "crm-equity",
+    "path": "/crm/equity",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/equity/index.vue",
+    "chunkName": "pages/crm/equity/index"
+  },
+  {
+    "name": "crm-expenses",
+    "path": "/crm/expenses",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/expenses/index.vue",
+    "chunkName": "pages/crm/expenses/index"
+  },
+  {
+    "name": "crm-income",
+    "path": "/crm/income",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/income/index.vue",
+    "chunkName": "pages/crm/income/index"
+  },
+  {
+    "name": "crm-liabilities",
+    "path": "/crm/liabilities",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/liabilities/index.vue",
+    "chunkName": "pages/crm/liabilities/index"
+  },
+  {
+    "name": "crm-orders",
+    "path": "/crm/orders",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/orders/index.vue",
+    "chunkName": "pages/crm/orders/index"
+  },
+  {
+    "name": "crm-products",
+    "path": "/crm/products",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/products/index.vue",
+    "chunkName": "pages/crm/products/index"
+  },
+  {
+    "name": "crm-projects",
+    "path": "/crm/projects",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/projects/index.vue",
+    "chunkName": "pages/crm/projects/index"
+  },
+  {
+    "name": "crm-sales",
+    "path": "/crm/sales",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/sales/index.vue",
+    "chunkName": "pages/crm/sales/index"
+  },
+  {
+    "name": "dashboard-analytics",
+    "path": "/dashboard/analytics",
+    "component": "/home/peet/Desktop/agri-test/pages/dashboard/analytics/index.vue",
+    "chunkName": "pages/dashboard/analytics/index"
+  },
+  {
+    "name": "dashboard-bulk",
+    "path": "/dashboard/bulk",
+    "component": "/home/peet/Desktop/agri-test/pages/dashboard/bulk/index.vue",
+    "chunkName": "pages/dashboard/bulk/index"
+  },
+  {
+    "name": "dashboard-business_details",
+    "path": "/dashboard/business_details",
+    "component": "/home/peet/Desktop/agri-test/pages/dashboard/business_details/index.vue",
+    "chunkName": "pages/dashboard/business_details/index"
+  },
+  {
+    "name": "eCommerce-checkout",
+    "path": "/eCommerce/checkout",
+    "component": "/home/peet/Desktop/agri-test/pages/eCommerce/checkout/index.vue",
+    "chunkName": "pages/eCommerce/checkout/index"
+  },
+  {
+    "path": "/crm/assets/breakdown",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/assets/breakdown.vue",
+    "chunkName": "pages/crm/assets/breakdown",
+    "children": [
+      {
+        "name": "crm-assets-breakdown",
+        "path": "",
+        "component": "/home/peet/Desktop/agri-test/pages/crm/assets/breakdown/index.vue",
+        "chunkName": "pages/crm/assets/breakdown/index"
+      }
+    ]
+  },
+  {
+    "name": "crm-assets-breakdowns",
+    "path": "/crm/assets/breakdowns",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/assets/breakdowns.vue",
+    "chunkName": "pages/crm/assets/breakdowns"
+  },
+  {
+    "name": "crm-company-customers",
+    "path": "/crm/company/customers",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/company/customers/index.vue",
+    "chunkName": "pages/crm/company/customers/index"
+  },
+  {
+    "name": "crm-company-meeting",
+    "path": "/crm/company/meeting",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/company/meeting/index.vue",
+    "chunkName": "pages/crm/company/meeting/index"
+  },
+  {
+    "name": "crm-company-view-company",
+    "path": "/crm/company/view-company",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/company/view-company/index.vue",
+    "chunkName": "pages/crm/company/view-company/index"
+  },
+  {
+    "name": "crm-equity-breakdown",
+    "path": "/crm/equity/breakdown",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/equity/breakdown.vue",
+    "chunkName": "pages/crm/equity/breakdown"
+  },
+  {
+    "name": "crm-expenses-breakdown",
+    "path": "/crm/expenses/breakdown",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/expenses/breakdown.vue",
+    "chunkName": "pages/crm/expenses/breakdown"
+  },
+  {
+    "name": "crm-income-breakdown",
+    "path": "/crm/income/breakdown",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/income/breakdown.vue",
+    "chunkName": "pages/crm/income/breakdown"
+  },
+  {
+    "name": "crm-liabilities-breakdown",
+    "path": "/crm/liabilities/breakdown",
+    "component": "/home/peet/Desktop/agri-test/pages/crm/liabilities/breakdown.vue",
+    "chunkName": "pages/crm/liabilities/breakdown"
+  },
+  {
+    "name": "dashboard-business_details-business_edit",
+    "path": "/dashboard/business_details/business_edit",
+    "component": "/home/peet/Desktop/agri-test/pages/dashboard/business_details/business_edit/index.vue",
+    "chunkName": "pages/dashboard/business_details/business_edit/index"
+  },
+  {
+    "name": "dashboard-users-clients",
+    "path": "/dashboard/users/clients",
+    "component": "/home/peet/Desktop/agri-test/pages/dashboard/users/clients/index.vue",
+    "chunkName": "pages/dashboard/users/clients/index"
+  },
+  {
+    "name": "dashboard-users-staff",
+    "path": "/dashboard/users/staff",
+    "component": "/home/peet/Desktop/agri-test/pages/dashboard/users/staff/index.vue",
+    "chunkName": "pages/dashboard/users/staff/index"
+  },
+  {
+    "name": "eCommerce-checkout-saved",
+    "path": "/eCommerce/checkout/saved",
+    "component": "/home/peet/Desktop/agri-test/pages/eCommerce/checkout/saved.vue",
+    "chunkName": "pages/eCommerce/checkout/saved"
+  },
+  {
+    "name": "eCommerce-components-ItemGridView",
+    "path": "/eCommerce/components/ItemGridView",
+    "component": "/home/peet/Desktop/agri-test/pages/eCommerce/components/ItemGridView.vue",
+    "chunkName": "pages/eCommerce/components/ItemGridView"
+  },
+  {
+    "name": "eCommerce-components-ItemListView",
+    "path": "/eCommerce/components/ItemListView",
+    "component": "/home/peet/Desktop/agri-test/pages/eCommerce/components/ItemListView.vue",
+    "chunkName": "pages/eCommerce/components/ItemListView"
+  },
+  {
+    "name": "dashboard-users-staff-user-edit",
+    "path": "/dashboard/users/staff/user-edit",
+    "component": "/home/peet/Desktop/agri-test/pages/dashboard/users/staff/user-edit/index.vue",
+    "chunkName": "pages/dashboard/users/staff/user-edit/index"
+  },
+  {
+    "name": "dashboard-users-staff-user-view",
+    "path": "/dashboard/users/staff/user-view",
+    "component": "/home/peet/Desktop/agri-test/pages/dashboard/users/staff/user-view/index.vue",
+    "chunkName": "pages/dashboard/users/staff/user-view/index"
+  },
+  {
+    "name": "eCommerce-detail_view-id",
+    "path": "/eCommerce/detail_view/:id?",
+    "component": "/home/peet/Desktop/agri-test/pages/eCommerce/detail_view/_id.vue",
+    "chunkName": "pages/eCommerce/detail_view/_id"
+  },
+  {
+    "name": "blogs-single-id",
+    "path": "/blogs-single/:id?",
+    "component": "/home/peet/Desktop/agri-test/pages/blogs-single/_id.vue",
+    "chunkName": "pages/blogs-single/_id"
+  },
+  {
+    "name": "ind_invoice-id",
+    "path": "/ind_invoice/:id?",
+    "component": "/home/peet/Desktop/agri-test/pages/ind_invoice/_id.vue",
+    "chunkName": "pages/ind_invoice/_id"
+  },
+  {
+    "name": "invoice-id",
+    "path": "/invoice/:id?",
+    "component": "/home/peet/Desktop/agri-test/pages/invoice/_id.vue",
+    "chunkName": "pages/invoice/_id"
+  },
+  {
+    "name": "invoices-id",
+    "path": "/invoices/:id?",
+    "component": "/home/peet/Desktop/agri-test/pages/invoices/_id.vue",
+    "chunkName": "pages/invoices/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/peet/Desktop/agri-test/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
